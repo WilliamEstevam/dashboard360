@@ -22,10 +22,26 @@ Este projeto foi originalmente concebido como uma iniciativa interna, e agora fo
   <img src="screenshots/login.png" width="45%" alt="Tela de Login" />
   <img src="screenshots/dashboard.png" width="45%" alt="Dashboard Principal" />
 </p>
+
+<details>
+<summary><b>🖼️ Clique aqui para ver a Galeria Completa de Telas</b></summary>
+<br>
 <p align="center">
-  <img src="screenshots/monitor_wfm.png" width="45%" alt="Monitor WFM (Tempo Real)" />
   <img src="screenshots/tempo_logado.png" width="45%" alt="Tempo Logado" />
+  <img src="screenshots/pausas.png" width="45%" alt="Monitor WFM (Pausas)" />
 </p>
+<p align="center">
+  <img src="screenshots/gestao_pausas.png" width="45%" alt="Gestão de Pausas" />
+  <img src="screenshots/absenteismo.png" width="45%" alt="Gestão de Absenteísmo" />
+</p>
+<p align="center">
+  <img src="screenshots/performance.png" width="45%" alt="Performance e Metas" />
+  <img src="screenshots/tu.png" width="45%" alt="Ranking de TU" />
+</p>
+<p align="center">
+  <img src="screenshots/perfil.png" width="45%" alt="Meu Perfil" />
+</p>
+</details>
 
 ---
 
