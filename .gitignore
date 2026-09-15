@@ -1,0 +1,34 @@
+# .gitignore — Dashboard360
+
+# -----------------------------------------------
+# CREDENCIAIS E CONFIGURAÇÕES LOCAIS — NUNCA commitar
+# -----------------------------------------------
+config.local.php
+.env
+.env.*
+
+# -----------------------------------------------
+# UPLOADS E ARQUIVOS DE USUÁRIOS
+# -----------------------------------------------
+shared/assets/img/avatars/*
+!shared/assets/img/avatars/.gitkeep
+shared/assets/img/uploads/*
+!shared/assets/img/uploads/.gitkeep
+
+# -----------------------------------------------
+# LOGS E TEMPORÁRIOS
+# -----------------------------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# -----------------------------------------------
+# PASTAS DE IDE E SISTEMA
+# -----------------------------------------------
+.vscode/
+.idea/
+.gemini/
+.cursor/
+Thumbs.db
+.DS_Store

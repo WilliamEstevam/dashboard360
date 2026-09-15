@@ -1,0 +1,29 @@
+.nav-item {
+    display: flex;
+    align-items: center;
+    border-radius: 9999px;
+    padding: 0.75rem;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.nav-label {
+    max-width: 0;
+    opacity: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 0.65rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    transition: max-width 0.4s ease, opacity 0.4s ease, margin 0.4s ease;
+    transition-delay: 0s;
+}
+
+.nav-island:hover .nav-label {
+    max-width: 150px;
+    opacity: 1;
+    margin-left: 0.75rem;
+    margin-right: 0.25rem;
+    transition-delay: 1s;
+}
