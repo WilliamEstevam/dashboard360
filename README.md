@@ -73,5 +73,5 @@ Se você deseja fazer um "fork" deste projeto e utilizá-lo em ambiente corporat
 ---
 
 <div align="center">
-Desenvolvido com dedicação.
+Desenvolvido com dedicação por <b>William Estevam</b>.
 </div>
