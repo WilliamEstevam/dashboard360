@@ -16,6 +16,19 @@ Este projeto foi originalmente concebido como uma iniciativa interna, e agora fo
 
 ---
 
+## 📸 Screenshots (Prévia do Projeto)
+
+<p align="center">
+  <img src="screenshots/login.png" width="45%" alt="Tela de Login" />
+  <img src="screenshots/dashboard.png" width="45%" alt="Dashboard Principal" />
+</p>
+<p align="center">
+  <img src="screenshots/monitor_wfm.png" width="45%" alt="Monitor WFM (Tempo Real)" />
+  <img src="screenshots/tempo_logado.png" width="45%" alt="Tempo Logado" />
+</p>
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Backend**: PHP 8.2+ (Vanilla, sem frameworks pesados, arquitetura "Front Controller").
